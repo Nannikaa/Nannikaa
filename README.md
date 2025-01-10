@@ -1,5 +1,9 @@
-## Hi there 👋
+## About me:
 
+- I'm a computer science student in UEF
+- I'm currently learning Java, Python and SQL
+
+ --- 
 <!--
 **Nannikaa/Nannikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
