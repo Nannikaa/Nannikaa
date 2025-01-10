@@ -1,6 +1,6 @@
 ## About me:
 
-- I'm a computer science student in UEF
+- I'm a computer science student at University of Eastern Finland
 - I'm currently learning Java, Python and SQL
 
  --- 
